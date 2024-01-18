@@ -1,9 +1,12 @@
 import React from 'react';
+import Header from '../components/timeline/header';
+import TweetEditor from '../components/timeline/tweet-editor';
 
 function Home() {
   return (
     <main className="timeline">
-      <h1>Timeline here</h1>
+      <Header />
+      <TweetEditor />
     </main>
   );
 }
