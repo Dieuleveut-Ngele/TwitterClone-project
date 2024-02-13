@@ -1,12 +1,12 @@
 import React from 'react';
-import TweetActions from "./tweet-actions";
+import TweetEditorActions from "./tweet-editor-actions";
 import TweetButton from "./tweet-button";
 
 function TweetEditorButtons() {
     return (
         
             <div className="tweet-editor-buttons">
-                <TweetActions />
+                <TweetEditorActions />
                 <TweetButton style={"button"}/>
             </div>
     )
