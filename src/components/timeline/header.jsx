@@ -4,7 +4,7 @@ import imgTopTweets from './images/Top-Tweets.png';
 function Header() {
   return (
     <header className="header">
-       <p className="page-title">Home</p>
+       <p className="page-title"></p>
        <img src={imgTopTweets} className="top-tweets"/>
     </header>  
   )  

@@ -22,7 +22,7 @@ function Tweets() {
       <Tweet tweetProfile={tweetoiseau} title="Twitter" value="@Twitter . Oct 4 " 
       text="hello literally everyone" />
 
-      <Tweet tweetProfile={tweetoiseau} title="Twitter" image={tweetimage} value="@Twitter . Oct 4 " 
+      <Tweet tweetProfile={tweetoiseau} title="Twitter" value="@Twitter . Oct 4 " 
       text="hello literally everyone"
       />
 
